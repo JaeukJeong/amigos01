@@ -1,7 +1,7 @@
 package com.example.demo.student;
 
 import javax.persistence.*;
-
+aaaaa
 @Entity
 @Table
 
